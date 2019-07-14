@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages of Bilal Kasbati
+## Welcome to GitHub Pages 
 
 You can use the [editor on GitHub](https://github.com/bilalkasbati/bilalkasbati.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
